@@ -12,6 +12,7 @@ Portion of the dataset used:
 
 ## Project Structure
 vpn_tor_classification.ipynb: Jupyter notebook containing the code for this project
+
 README.md: This file providing information about the project
 
 ## Dependencies
