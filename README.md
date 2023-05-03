@@ -11,7 +11,7 @@ Portion of the dataset used:
 ![image](https://user-images.githubusercontent.com/52237625/236002480-13fcb06e-fa1b-4f84-9546-1f0fd0ab1aeb.png)
 
 ## Project Structure
-vpn_tor_classification.ipynb: Jupyter notebook containing the code for this project
+vpn_tor_classification.ipynb: Google colab notebook containing the code for this project
 
 README.md: This file providing information about the project
 
