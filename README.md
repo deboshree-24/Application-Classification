@@ -6,6 +6,10 @@ This project is aimed at classifying applications in 3 types of network traffic 
 ## Dataset Description
 The dataset used in this project is an augmented labeled dataset which contains data from ISCX VPN-nonVPN traffic dataset (ISCX-VPN), ISCX Tor-nonTor dataset (ISCX-Tor) and a small packet capture (TAU). This dataset was introduced by T. Shapira and Y. Shavitt in  "FlowPic: A Generic Representation for Encrypted Traffic Classification and Applications Identification," in IEEE Transactions on Network and Service Management. 
 
+Portion of the dataset used:
+
+![image](https://user-images.githubusercontent.com/52237625/236002480-13fcb06e-fa1b-4f84-9546-1f0fd0ab1aeb.png)
+
 
 
 
