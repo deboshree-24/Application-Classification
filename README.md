@@ -10,27 +10,29 @@ Portion of the dataset used:
 
 ![image](https://user-images.githubusercontent.com/52237625/236002480-13fcb06e-fa1b-4f84-9546-1f0fd0ab1aeb.png)
 
+## Project Structure
+vpn_tor_classification.ipynb: Jupyter notebook containing the code for this project
+README.md: This file providing information about the project
 
+## Dependencies
+This project requires the following Python libraries:
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
 
+## Usage
+The notebook contains the code for the following:
+Data preprocessing
+Building and training a Naive Bayes model
+Building and training a Feed Forward Neural Net model
+Freezing initial layers
+Evaluating model performance
+Experiments to compare model performances
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Results
+The best performing model achieved an accuracy of % on the original data and an accuracy of % on the new data. The F1 score was 0.65 on the original data and 0.3 on the new data. The experiments performed on transfer learning and pre-trained models provided insight into the limitations of transfer learning and the benefits of using a pre-trained model.
 
 ## Citations
 Dataset:
