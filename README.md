@@ -19,9 +19,10 @@ README.md: This file providing information about the project
 This project requires the following Python libraries:
 numpy
 pandas
-scikit-learn
-tensorflow
 matplotlib
+seaborn
+scikit-learn
+keras
 
 ## Usage
 The notebook contains the code for the following:
