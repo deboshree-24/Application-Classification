@@ -17,6 +17,7 @@ README.md: This file providing information about the project
 
 ## Dependencies
 This project requires the following Python libraries:
+
 numpy
 
 pandas
