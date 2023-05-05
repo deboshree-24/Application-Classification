@@ -40,7 +40,7 @@ Evaluating model performance
 Experiments to compare model performances
 
 ## Results
-The best performing model was a FFNN which achieved an accuracy of 0.4% on the original data and an accuracy of 0.2% on the new data. The F1 score was 0.65 on the original data and 0.3 on the new data. The experiments performed on transfer learning and pre-trained models provided insight into the limitations of transfer learning and the benefits of using a pre-trained model.
+The best performing model was a FFNN which achieved an F1 score of 0.6% on the original data and an accuracy of 0.4% on the new data. The experiments performed on transfer learning and pre-trained models provided insight into the limitations of transfer learning and the benefits of using a pre-trained model.
 
 ## Citations
 Dataset:
